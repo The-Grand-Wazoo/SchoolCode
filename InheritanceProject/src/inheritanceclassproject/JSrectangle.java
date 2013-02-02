@@ -7,4 +7,4 @@ public class JSrectangle extends JSquadrilateral
         super(shapeGiven, lengthGiven, widthGiven);
         
     }
-}
+} 
